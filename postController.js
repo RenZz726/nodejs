@@ -1,0 +1,16 @@
+const posts = [
+    {id: 1, title: 'Post One'},
+    {id: 2, title: 'Post Two'}
+];
+
+// export const getPosts = () => posts; 
+
+// or 
+
+const getPosts = () => posts;
+
+export {
+    getPosts
+};
+
+// export default getPosts; when there is only one thing
