@@ -1,3 +1,5 @@
+// contains logic for handling posts
+// This could connect to database
 const posts = [
     {id: 1, title: 'Post One'},
     {id: 2, title: 'Post Two'}
@@ -14,3 +16,4 @@ export {
 };
 
 // export default getPosts; when there is only one thing
+

@@ -42,7 +42,7 @@ const posts = [
 // or 
 
 const getPosts = () => posts;
-
+ 
 export {
     getPosts
 };

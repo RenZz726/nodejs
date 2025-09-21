@@ -9,4 +9,4 @@ function wishes() {
 module.exports = {
     generateRandomNumber,
     wishes,
-}
+} 
